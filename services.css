@@ -1,0 +1,54 @@
+.edit-card {
+  border: none !important;
+  outline: none !important;
+}
+.edit-card p {
+  color: grey;
+}
+.circle {
+  height: 4.3rem;
+  width: 4.3rem;
+  background-color: lightgrey;
+  color: black;
+  padding: 0.8rem;
+  font-size: 1.8rem;
+  border-radius: 50%;
+  display: inline-block;
+  margin-bottom: 1.2rem;
+}
+.card:hover .circle {
+  background-color: #37b5ff;
+  color: white;
+  transition: 0.5s;
+}
+.card:hover {
+  cursor: pointer;
+}
+.main-color {
+  color: #37b5ff;
+}
+.paragraph-services {
+  font-size: 1.7rem;
+}
+.no-margin-top-services {
+  margin-top: -10rem;
+}
+.green-background {
+  background: #f1f1f1;
+  color: black;
+  padding: 1.3rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+.bg-big-text {
+  background: #37b5ff;
+  color: white !important;
+  padding: 1.3rem;
+  border-radius: 10px;
+}
+.less-margin-2{
+    margin-bottom: -15em;
+}
+.less-margin-3-contact{
+    margin-top: -15rem;
+}
